@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<!------------------------->    
+    <meta charset="utf-8">
+    <title>S.page</title>
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="src/css/custom.css">
+    <link rel="icon" type="image/png" href="src/icon/favicon.ico">
+    <meta name="description" content="starter page for browse">
+    <meta name="author" content="premori">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="gRdatFi0fVmkIy4psCUx9GfpXkipzYl7TH-8wABuXlg" />
+    <meta name="yandex-verification" content="8fcc469b08cfb89b" />
+    <script type="text/javascript" src="src/js/detect.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+    <script type="module" src="app.js"></script>
+<!------------------------->
+</head>
+<body>
+    <div id="header_container"></div>
+    
+    <main>
+    <div class="container">
+
+        <div class="alert alert-light" role="alert">
+              <b>Browse:</b>
+              <script type="text/javascript">
+              var user = detect.parse(navigator.userAgent); 
+              document.write(user.browser.family);
+              </script><br>
+              <b>Version:</b>
+              <script type="text/javascript">
+              var user = detect.parse(navigator.userAgent); 
+              document.write(user.browser.version);
+              </script><br>
+              <b>OS:</b>
+              <script type="text/javascript">
+              var user = detect.parse(navigator.userAgent); 
+              document.write(user.os.name);
+              </script>
+        </div>
+     
+    <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/#/">Home</a></li>
+    <li class="breadcrumb-item"><a href="/#/addlink">add links</a></li>
+    <li class="breadcrumb-item"><a href="/#/about">about</a></li>
+    </ol>
+    </nav>
+
+     </div>
+    </main>
+
+    <div id="page_container" class="container pageEntry" >
+     <div class="d-flex justify-content-center">
+      <div class="spinner-border text-secondary" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
+    </div>
+      
+    <div id="footer_container"></div>
+
+</body>    
+</html>
