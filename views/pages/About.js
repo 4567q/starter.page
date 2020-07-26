@@ -4,10 +4,10 @@ let About = {
         <div class="card">
         <div class="card-body">
         <h3>Starter.Page</h3>
-            Этот проект показывает, как можно создать простое одностраничное приложение в стиле стартовой страницы, используя только простой JavaScript.
+            Этот проект показывает, как можно создать простое одностраничное SPA приложение в стиле стартовой страницы, используя только простой JavaScript.
             Для этого не требуется никаких фреймворков или инструментов сборки.
-            Но потребуется веб-сервер для обслуживания HTML и JS для браузера
-            <a href="https://github.com/4567q/starter.page" target="_blank" class="card-link">GitHub</a>
+            Но потребуется веб-сервер для обслуживания HTML и JS для браузера.
+            <a href="https://github.com/4567q/starter.page" target="_blank" class="card-link">(GitHub)</a>
         </div>
         </div>
         `

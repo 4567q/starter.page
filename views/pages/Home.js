@@ -128,10 +128,10 @@ let Home = {
         </div>
         </a>
         <!------------------------->
-        <a class="button" style='text-decoration: none;'>
+        <a class="button" href="https://online-audio-converter.com/ru/" style='text-decoration: none;'>
         <div class="alert alert-light" role="alert">
-        <img src="src/icon/Qn_32x32.png" class="rounded-0">
-        <span>link not added</span>
+        <img src="src/icon/acn_32x32.png" class="rounded-0">
+        <span>Audio converter</span>
         </div>
         </a>
         <!------------------------->
@@ -216,9 +216,47 @@ let Home = {
         <!------------------------->
         </div>
         </div>
-</div>
+        </div>
+
 <div class="col-sm">
-<!--add link-->
+
+ <div class="card bg-light mb-3">
+        <div class="card-header">Movies & Series</div>
+        
+        <div class="card-body">
+        <!------------------------->
+        <a class="button" href="https://adultmult12.multmania.club/" target="_blank" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/am_32x32.png" class="rounded-0">
+        <span>Adultmult</span>
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" href="http://u4.lordfilm7.tv/" target="_blank" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/lf_32x32.png" class="rounded-0">
+        <span>Lordfilm</span>
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" href="https://goblins-online.ru/" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/gf_32x32.png" class="rounded-0">
+        <span>GoblinFilms</span>
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/Qn_32x32.png" class="rounded-0">
+        <span>link not added</span>
+        </div>
+        </a>
+        <!------------------------->
+        </div>
+        </div>
+        </div>
+
 </div>
 </div>
         `

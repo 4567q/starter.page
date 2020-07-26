@@ -2,7 +2,7 @@
 
 import Home         from './views/pages/Home.js'
 import About        from './views/pages/About.js'
-import addlink     from './views/pages/addlink.js'
+import Flkeeper      from './views/pages/Flkeeper.js'
 
 import Navbar       from './views/components/Navbar.js' 
 
@@ -12,7 +12,7 @@ import Utils        from './services/Utils.js'
 const routes = {
     '/'             : Home
     , '/about'      : About
-    , '/addlink'    : addlink
+    , '/flkeeper'   : Flkeeper
 };
 
 
