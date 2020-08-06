@@ -75,13 +75,6 @@ let Flkeeper = {
             </div>
             </a>
 
-            <a class="button" style='text-decoration: none;'>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/Qn_32x32.png" class="rounded-0">
-            <span>file not added</span>
-            </div>
-            </a>
-
             </div>
             </div>
             </div>
