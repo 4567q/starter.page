@@ -68,6 +68,13 @@ let Flkeeper = {
             </div>
             </a>
 
+            <a class="button" href="https://cloud.mail.ru/public/5xJ5/2iH8n8rgr" style='text-decoration: none;' download>
+            <div class="alert alert-light" role="alert">
+            <img src="src/icon/wr_32x32.png" class="rounded-0">
+            <span>[drum kit].rar</span>
+            </div>
+            </a>
+
             <a class="button" style='text-decoration: none;'>
             <div class="alert alert-light" role="alert">
             <img src="src/icon/Qn_32x32.png" class="rounded-0">
