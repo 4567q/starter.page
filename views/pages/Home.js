@@ -128,7 +128,7 @@ let Home = {
         </div>
         </a>
         <!------------------------->
-        <a class="button" href="https://online-audio-converter.com/ru/" style='text-decoration: none;'>
+        <a class="button" href="https://online-audio-converter.com/ru/" target="_blank" style='text-decoration: none;'>
         <div class="alert alert-light" role="alert">
         <img src="src/icon/acn_32x32.png" class="rounded-0">
         <span>Audio converter</span>
