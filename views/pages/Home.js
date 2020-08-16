@@ -203,7 +203,7 @@ let Home = {
         <a class="button" href="https://yougame.biz/" target="_blank" style='text-decoration: none;'>
         <div class="alert alert-light" role="alert">
         <img src="src/icon/yg_32x32.png" class="rounded-0">
-        <span>Steam</span>
+        <span>YouGame</span>
         </div>
         </a>
         <!------------------------->
