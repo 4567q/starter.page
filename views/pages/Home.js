@@ -207,10 +207,10 @@ let Home = {
         </div>
         </a>
         <!------------------------->
-        <a class="button" style='text-decoration: none;'>
+        <a class="button" href="https://boost.ninja" target="_blank" style='text-decoration: none;'>
         <div class="alert alert-light" role="alert">
-        <img src="src/icon/Qn_32x32.png" class="rounded-0">
-        <span>link not added</span>
+        <img src="src/icon/nb_32x32.png" class="rounded-0">
+        <span>Boost.Ninja</span>
         </div>
         </a>
         <!------------------------->
