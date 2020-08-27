@@ -8,6 +8,9 @@ let Navbar = {
     </a>
 
     <span class="navbar-text">
+
+     <!-- weather widget start --><a target="_blank" href="https://nochi.com/weather/ulyanovsk-36692"><img src="https://w.bookcdn.com/weather/picture/21_36692_1_20_ecf0f1_250_bdc3c7_9da2a6_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=589&anc_id=79192"  alt="booked.net"/></a><!-- weather widget end -->
+
     </span>        
     </nav> 
         `
