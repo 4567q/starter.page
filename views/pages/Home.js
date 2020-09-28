@@ -232,9 +232,9 @@ let Home = {
         </div>
         </a>
         <!------------------------->
-        <a class="button" href="http://u4.lordfilm7.tv/" target="_blank" style='text-decoration: none;'>
+        <a class="button" href="#" style='text-decoration: none;'>
         <div class="alert alert-light" role="alert">
-        <img src="src/icon/lf_32x32.png" class="rounded-0">
+        <img src="src/icon/Qn_32x32.png" class="rounded-0">
         <span>Lordfilm</span>
         </div>
         </a>
