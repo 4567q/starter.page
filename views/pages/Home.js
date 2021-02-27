@@ -62,6 +62,46 @@ let Home = {
         </div>
         </div>
 </div>
+
+<div class="col-sm">
+
+        <div class="card bg-light mb-3">
+        <div class="card-header">Forums and needed</div>
+        
+        <div class="card-body">
+        <!------------------------->
+        <a class="button" href="https://lolz.guru/members/3895702/" target="_blank" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/lolz.png" class="rounded-0">
+        <span>lolz</span> 
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/Qn_32x32.png" class="rounded-0">
+        <span>link not added</span>
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/Qn_32x32.png" class="rounded-0">
+        <span>link not added</span>
+        </div>
+        </a>
+        <!------------------------->
+        <a class="button" style='text-decoration: none;'>
+        <div class="alert alert-light" role="alert">
+        <img src="src/icon/Qn_32x32.png" class="rounded-0">
+        <span>link not added</span>
+        </div>
+        </a>
+        <!------------------------->
+        </div>
+        </div>
+</div>
+
 <div class="col-sm">
 
         <div class="card bg-light mb-3">
