@@ -2,82 +2,86 @@ let Flkeeper = {
     render : async () => {
         let view =  /*html*/`
                        
-             <div class="row">
-              
-            <div class="col-sm">
-            <div class="card bg-light mb-3">
-            <center>
-            <div class="card-header">Apps</div>
-            </center>
-            <div class="card-body">
-              
-           <a class="button" href="files/autostat.exe" style='text-decoration: none;' download>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/au_32x32.png" class="rounded-0">
-            <span>autostat.exe</span>
-            </div>
-           </a>
-
-           <a class="button" style='text-decoration: none;'>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/Qn_32x32.png" class="rounded-0">
-            <span>file not added</span>
-            </div>
-           </a>
-
-            </div>
-            </div>
-            </div>
-
-            <div class="col-sm">
-            <div class="card bg-light mb-3">
-            <center>
-            <div class="card-header">Tools</div>
-            </center>
-            <div class="card-body">
+        <div class="col-sm">
+        <div class="card mb-3">
+        <div class="card-header"><center><span style="color: #fff;">file keeper</span></center></div>
+        
+        <div class="card-body">
+        <!------------------------->
+        
+         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
+          <div class="col">
             
-            <a class="button" href="files/adwcleaner_8.0.6.exe" style='text-decoration: none;' download>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/ac_32x32.png" class="rounded-0">
-            <span>adwcleaner.exe</span>
-            </div>
-            </a>
-
-            <a class="button" href="files/FileZillaPortable_3.49.1.paf.exe" style='text-decoration: none;' download>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/fz_32x32.png" class="rounded-0">
-            <span>filezilla.exe</span>
-            </div>
-            </a>
-
-            </div>
-            </div>
-            </div>
-
-            <div class="col-sm">
-            <div class="card bg-light mb-3">
+          <span style="color: #fff;">
             <center>
-            <div class="card-header">Оther</div>
-            </center>
-            <div class="card-body">
+            <b>app:</b><br>
+            <b>autostat.exe</b><br>
+            <b><a href="files/autostat.exe">download</a></b>
+          </center>
+          </span>
+
+          </div>
+          <div class="col">
             
-            <a class="button" href="files/server.rar" style='text-decoration: none;' download>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/wr_32x32.png" class="rounded-0">
-            <span>ServerTO.rar</span>
-            </div>
-            </a>
+          <span style="color: #fff;">
+            <center>
+            <b>app:</b><br>
+            <b>boostM.exe</b><br>
+            <b><a href="https://cloud.mail.ru/public/2Ju2/4vSpfp99C" target="_blank">download</a></b>
+          </center>
+          </span>
 
-            <a class="button" href="https://cloud.mail.ru/public/5xJ5/2iH8n8rgr" style='text-decoration: none;' download>
-            <div class="alert alert-light" role="alert">
-            <img src="src/icon/wr_32x32.png" class="rounded-0">
-            <span>[drum kit].rar</span>
-            </div>
-            </a>
+          </div>
+          <div class="col">
+            
+          <span style="color: #fff;">
+            <center>
+            <b>app:</b><br>
+            <b>FSbot.exe</b><br>
+            <b><a title="license for Premori Ove" href="https://cloud.mail.ru/public/3EDj/4sFPcty1G" target="_blank">download</a></b>
+          </center>
+          </span>
 
-            </div>
-            </div>
-            </div>
+          </div>
+          <div class="col">
+            
+           <span style="color: #fff;">
+            <center>
+            <b>app:</b><br>
+            <b>TGpars.exe</b><br>
+            <b><a href="https://github.com/elizhabs/TGPars" target="_blank" >download</a></b>
+          </center>
+          </span>
+
+          </div>
+
+         <div class="col">
+            
+           <span style="color: #fff;">
+            <center>
+            <b>app:</b><br>
+            <b>TGpars.exe</b><br>
+            <b><a href="https://github.com/elizhabs/TGPars" target="_blank" >download</a></b>
+          </center>
+          </span>
+
+          </div>
+
+          <div class="col">
+            
+           <span style="color: #fff;">
+            <center>
+            <b>app:</b><br>
+            <b>TGpars.exe</b><br>
+            <b><a href="https://github.com/elizhabs/TGPars" target="_blank" >download</a></b>
+          </center>
+          </span>
+
+          </div>
+
+        </div>
+
+
 
            
         `

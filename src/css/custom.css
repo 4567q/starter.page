@@ -1,22 +1,30 @@
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 
-* {
-  margin: 0;
-  padding: 0;
-}
 body{
   font-size: 13px;
-  background: #eee;
-  font-family: 'Open Sans', sans-serif;
+  background: #333;
+  font-family: 'Courier Prime', monospace;
   -webkit-font-smoothing: antialiased;
 }
 
 main > .container {
     padding: 15px 15px 0;
 }
+.card{
+	background-color: #202020;
+}
+
+.navbar-brand{
+    width:100%;
+    text-align:center;
+}
 
 .bg-light {
-    background-color: #ffffff!important;
+    background-color: #202020!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff;
 }
 
 a{
@@ -28,7 +36,7 @@ a{
     padding-top: .5rem;
 }
 .card-body{
-	background-color: #eee;
+	background-color: #202020;
 }
 .breadcrumb{
   background-color: #ffffff
@@ -78,12 +86,12 @@ p {
 }
 a{
   text-decoration: none;
-  color: #000;
+  color: #8fbcff;
 }
 a:hover,a:active,a:focus {
   outline: 0;
   text-decoration: none;
-  color: #404040;
+  color: #2659a5;
 }
 hr {
   margin: 10px 0px;
@@ -612,5 +620,10 @@ hr {
 }
 
 .alert-light {
-    color: #565656;
+    color: #fff;
+}
+
+.alert-light {
+    background-color: #2d2d2d;
+    border-color: #272727;
 }
